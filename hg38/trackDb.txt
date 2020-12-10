@@ -1,0 +1,13 @@
+track  bigWig1
+bigDataUrl http://iski0004/~sol/LaiLab/jeffrey/hg38/yeo_lab_sRNA/bud13_knockdown_hepg2_replicate_1.Forward.bw
+shortLabel bud13_knockdown_hepg2_replicate_1.Forward
+longLabel bud13_knockdown_hepg2_replicate_1 Forward sRNA data
+type bigWig
+visibility dense
+
+track  bigWig2
+bigDataUrl http://iski0004/~sol/LaiLab/jeffrey/hg38/yeo_lab_sRNA/bud13_knockdown_hepg2_replicate_1.Reverse.bw
+shortLabel bud13_knockdown_hepg2_replicate_1.Reverse
+longLabel bud13_knockdown_hepg2_replicate_1 Reverse sRNA data
+type bigWig
+visibility dense
