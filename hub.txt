@@ -1,0 +1,5 @@
+hub	Humandata
+shortLabel	Human sRNA CLIP RNAseq data
+longLabel	Human eCLIP data along with appropriate RNA-seq and small RNA data
+genomesFile	genome.txt
+email	vedanayj@mskcc.org
